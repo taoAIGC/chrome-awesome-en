@@ -23,7 +23,7 @@ Visit Chrome Web Store and search for the extension name to install.
 ├── README.md
 ├── plugins.md        # Plugin list
 ├── alternatives/     # Alternatives
-└── tutorials/        # Tutorials
+└── tutorials/       # Tutorials
 ```
 
 ## 🤝 Contributing
